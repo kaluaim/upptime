@@ -4,18 +4,20 @@
     "url": "https://kalua.im",
     "icon": "https://icons.duckduckgo.com/ip3/kalua.im.ico",
     "slug": "kalua-im",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 214,
-    "timeDay": 162,
-    "timeWeek": 229,
-    "timeMonth": 214,
-    "timeYear": 214,
-    "dailyMinutesDown": {}
+    "time": 213,
+    "timeDay": 204,
+    "timeWeek": 230,
+    "timeMonth": 213,
+    "timeYear": 213,
+    "dailyMinutesDown": {
+      "2023-01-19": 0
+    }
   },
   {
     "name": "mastodon.kalua.im",
@@ -28,11 +30,11 @@
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 726,
-    "timeDay": 751,
-    "timeWeek": 760,
-    "timeMonth": 726,
-    "timeYear": 726,
+    "time": 721,
+    "timeDay": 610,
+    "timeWeek": 748,
+    "timeMonth": 721,
+    "timeYear": 721,
     "dailyMinutesDown": {
       "2023-01-13": 24
     }
