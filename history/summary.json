@@ -4,19 +4,19 @@
     "url": "https://kalua.im",
     "icon": "https://icons.duckduckgo.com/ip3/kalua.im.ico",
     "slug": "kalua-im",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 213,
-    "timeDay": 204,
-    "timeWeek": 230,
+    "timeDay": 209,
+    "timeWeek": 228,
     "timeMonth": 213,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2023-01-19": 0
+      "2023-01-19": 9
     }
   },
   {
