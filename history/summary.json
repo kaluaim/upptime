@@ -22,7 +22,7 @@
     "url": "mastodon.kalua.im",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mastodon-kalua-im",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 635,
     "timeYear": 827,
     "dailyMinutesDown": {
+      "2024-01-23": 0,
       "2024-01-13": 42,
       "2024-01-10": 19,
       "2023-12-18": 17,
