@@ -1,7 +1,7 @@
 url: mastodon.kalua.im
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-07-27T20:58:44.287Z
+status: up
+code: 200
+responseTime: 1756
+lastUpdated: 2025-07-27T21:06:42.875Z
 startTime: 2022-12-26T03:31:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
