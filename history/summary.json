@@ -24,17 +24,17 @@
     "url": "mastodon.kalua.im",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mastodon-kalua-im",
-    "status": "down",
-    "uptime": "98.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
+    "status": "up",
+    "uptime": "98.54%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.65%",
     "time": 1603,
-    "timeDay": 1357,
-    "timeWeek": 1538,
-    "timeMonth": 1590,
-    "timeYear": 1600,
+    "timeDay": 1484,
+    "timeWeek": 1555,
+    "timeMonth": 1594,
+    "timeYear": 1601,
     "dailyMinutesDown": {
       "2025-10-20": 19,
       "2025-10-25": 23,
@@ -87,7 +87,8 @@
       "2026-09-02": 20,
       "2026-09-17": 23,
       "2026-09-22": 24,
-      "2026-09-28": 15
+      "2026-09-28": 15,
+      "2026-10-19": 5
     }
   }
 ]
