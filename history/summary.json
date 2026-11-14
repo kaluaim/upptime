@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 258,
-    "timeDay": 158,
-    "timeWeek": 198,
-    "timeMonth": 214,
+    "timeDay": 176,
+    "timeWeek": 189,
+    "timeMonth": 216,
     "timeYear": 264,
     "dailyMinutesDown": {
       "2026-04-13": 58
@@ -26,17 +26,16 @@
     "slug": "mastodon-kalua-im",
     "status": "up",
     "uptime": "98.56%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
-    "time": 1585,
-    "timeDay": 625,
-    "timeWeek": 881,
-    "timeMonth": 1288,
-    "timeYear": 1578,
+    "time": 1583,
+    "timeDay": 555,
+    "timeWeek": 872,
+    "timeMonth": 1272,
+    "timeYear": 1577,
     "dailyMinutesDown": {
-      "2025-11-14": 18,
       "2025-11-19": 20,
       "2025-11-24": 21,
       "2025-11-29": 25,
@@ -82,8 +81,7 @@
       "2026-09-02": 20,
       "2026-09-17": 23,
       "2026-09-22": 24,
-      "2026-09-28": 15,
-      "2026-11-13": 10
+      "2026-09-28": 15
     }
   }
 ]
